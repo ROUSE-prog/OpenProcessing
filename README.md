@@ -1,5 +1,5 @@
 # OpenProcessing
-This directory contains all of the Open Source Visual Code Projects I've created.
+This directory contains all of the Open Source Visual Code Projects I've created
 You can interact with each of these and many more projects on OpenProcessing here>http://tiny.cc/Openprocessing<
 
 "ColorMadness"
